@@ -14,4 +14,4 @@ A simple yet powerful PHP tool to catch Git webhooks from GitLab, GitHub & Bitbu
 
 #### [Visit the official website for instructions and more information »](https://deepl.io.noelboss.com)
 
-©️ [Noevu - Schweizer KMU Webseiten Entwicklung](https://www.noevu.ch/#entwicklung)
+©️ [Noevu - Schweizer KMU Webseiten Entwicklung]([https://noevu.ch/neue-webseite-fuer-meine-firma/)
